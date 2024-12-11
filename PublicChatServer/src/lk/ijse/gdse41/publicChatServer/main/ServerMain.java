@@ -3,6 +3,7 @@ package lk.ijse.gdse41.publicChatServer.main;
 import lk.ijse.gdse41.publicChatServer.control.ChatControllerImpl;
 
 import java.io.*;
+import java.nio.file.Files;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.util.Properties;
@@ -15,7 +16,7 @@ public class ServerMain {
     public static void main(String[] args) {
         Properties properties=new Properties();
         try {
-            InputStream input = new FileInputStream(new File("dbSettings/settings.properties"));
+            InputStream input = Files.newInputStream(new File("dbSettings/settings.properties").toPath());
             System.out.println(System.getProperty("user.dir"));
             properties.load(input);
 
@@ -44,7 +45,7 @@ public class ServerMain {
             Runtime.getRuntime().exit(0);
 
         } catch (IOException e) {
-            e.printStackTrace();
+            System.err.println(e.getMessage());
         }
 
     }

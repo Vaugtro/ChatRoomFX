@@ -1,0 +1,19 @@
+version: '3.8'
+
+services:
+  mariadb:
+    image: mariadb:latest
+    container_name: mariadb-container
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 12345678 # Senha para o usuário root
+      MYSQL_DATABASE: chat-room    # Banco de dados a ser criado
+      MYSQL_USER: rmi              # Nome do usuário adicional
+      MYSQL_PASSWORD: rmi_password # Senha do usuário adicional
+    ports:
+      - "3306:3306"                # Mapeia a porta 3306 no host para o container
+    volumes:
+      - db_data:/var/lib/mysql     # Volume persistente para dados do banco
+
+volumes:
+  db_data:                         # Define o volume persistente

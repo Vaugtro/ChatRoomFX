@@ -5,13 +5,45 @@
       <artifact name="PublicChatClient" />
     </artifacts-to-build>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/PublicChatServer/src/lk/ijse/gdse41/publicChatServer/observable/ChatObservable.java" line="28" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="439042e7-9801-4787-932f-3004f49e2673" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="439042e7-9801-4787-932f-3004f49e2673" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_swt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/PublicChatClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/PublicChatClient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/dbSettings/settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/dbSettings/settings.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/connector/ServerConnector.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/connector/ServerConnector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/observerImpl/ChatObserverImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/observerImpl/ChatObserverImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/ui/controller/ChatRoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/ui/controller/ChatRoom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/ui/controller/CreateNewAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/ui/controller/CreateNewAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/ui/controller/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatClient/lk/ijse/gdse41/publicChatClient/ui/controller/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatCommon/lk/ijse/gdse41/publicChatCommon/control/ChatController.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatCommon/lk/ijse/gdse41/publicChatCommon/control/ChatController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatCommon/lk/ijse/gdse41/publicChatCommon/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatCommon/lk/ijse/gdse41/publicChatCommon/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatCommon/lk/ijse/gdse41/publicChatCommon/observer/ChatObserver.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatClient/out/production/PublicChatCommon/lk/ijse/gdse41/publicChatCommon/observer/ChatObserver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/dbSettings/settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/dbSettings/settings.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/out/artifacts/PublicChatServer_jar/dbSettings/settings.properties" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/out/artifacts/PublicChatServer_jar/dbSettings/settings.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/control/ChatControllerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/control/ChatControllerImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/dao/UsersDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/dao/UsersDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/dao/dbConnection/DBConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/dao/dbConnection/DBConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/dao/impl/UsersDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/dao/impl/UsersDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/main/ServerMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/main/ServerMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/observable/ChatObservable.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/observable/ChatObservable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/service/ChatService.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/service/ChatService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/service/impl/ChatServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/out/production/PublicChatServer/lk/ijse/gdse41/publicChatServer/service/impl/ChatServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/src/lk/ijse/gdse41/publicChatServer/dao/dbConnection/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/src/lk/ijse/gdse41/publicChatServer/dao/dbConnection/DBConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PublicChatServer/src/lk/ijse/gdse41/publicChatServer/main/ServerMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/PublicChatServer/src/lk/ijse/gdse41/publicChatServer/main/ServerMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,9 +53,6 @@
     <SUITE FILE_PATH="coverage/PublicChatFX$Main.coverage" NAME="Main Coverage Results" MODIFIED="1511356909930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>lk.ijse.gdse41.publicChatClient.main.*</FILTER>
     </SUITE>
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="PublicChatFX" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
@@ -139,6 +168,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
@@ -185,6 +217,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand />
@@ -192,12 +228,19 @@
     </treeState>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectId" id="2q4ai6JPJo83oWxXbhYfhWk66v4" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -365,19 +408,33 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/PublicChatClient/out" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.ServerMain.executor": "Run",
+    "JAR Application.PublicChatClient.jar.executor": "Run",
+    "JAR Application.PublicChatServer.jar.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Workspace/ChatRoomFX/PublicChatClient",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.6501726",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Edited ChatRoom\ChatRoom\PublicChatFX\PublicChatClient" />
@@ -386,183 +443,14 @@
       <recent name="C:\ChatRoom\PublicChatFX\PublicChatClient\src\lk\ijse\gdse41\publicChatClient\ui\util\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Workspace\ChatRoomFX\" />
       <recent name="C:\Edited ChatRoom\ChatRoom\PublicChatFX\PublicChatClient" />
       <recent name="C:\Edited ChatRoom\ChatRoom\PublicChatFX\PublicChatClient\src" />
       <recent name="C:\Edited ChatRoom\ChatRoom\PublicChatFX\PublicChatClient\src\lk\ijse\gdse41\publicChatClient\ui\util\images\icons" />
       <recent name="C:\Edited ChatRoom\ChatRoom\PublicChatFX\PublicChatClient\src\lk\ijse\gdse41\publicChatClient\ui\util\images\users" />
-      <recent name="G:\New\PublicChatFX" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JAR Application.PublicChatServer.jar">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lk.ijse.gdse41.publicChatClient.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lk.ijse.gdse41.publicChatClient.main.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="PublicChatClient" />
-      <envs />
-    </configuration>
-    <configuration name="PublicChatClient.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="JAR_PATH" value="$PROJECT_DIR$/PublicChatClient/out/artifacts/PublicChatClient_jar/PublicChatClient.jar" />
-      <envs />
-    </configuration>
-    <configuration name="PublicChatServer.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="JAR_PATH" value="$PROJECT_DIR$/PublicChatServer/out/artifacts/PublicChatServer_jar/PublicChatServer.jar" />
-      <envs />
-    </configuration>
-    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lk.ijse.gdse41.publicChatServer.main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lk.ijse.gdse41.publicChatServer.main.ServerMain" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="PublicChatServer" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module />
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
-    </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="PublicChatFX" />
-      <envs />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-    </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -617,6 +505,13 @@
         <option name="INSTRUMENTATION_ENABLED" value="true" />
       </Profilers>
       <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
     </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -748,83 +643,19 @@
       <option name="trusted" value="true" />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
     </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="SCRATCH_FILE_ID" value="0" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
-      <node-interpreter value="project" />
-      <working-dir value="" />
-      <envs />
-      <scope-kind value="ALL" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
-      <config-file value="" />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
-      <method />
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run" />
-      <scripts />
-      <node-interpreter value="project" />
-      <envs />
-      <method />
+      <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
       <method />
@@ -832,24 +663,112 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ServerMain" />
-      <item index="2" class="java.lang.String" itemvalue="JAR Application.PublicChatServer.jar" />
-      <item index="3" class="java.lang.String" itemvalue="JAR Application.PublicChatClient.jar" />
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.gdse41.publicChatClient.main.Main" />
+      <module name="PublicChatClient" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;D:\Workspace\ChatRoomFX\lib\javafx\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PublicChatClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.gdse41.publicChatClient.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.ijse.gdse41.publicChatServer.main.ServerMain" />
+      <module name="PublicChatServer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PublicChatServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.ijse.gdse41.publicChatServer.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PublicChatClient.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/PublicChatClient/out/artifacts/PublicChatClient_jar/PublicChatClient.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PublicChatServer.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/PublicChatServer/out/artifacts/PublicChatServer_jar/PublicChatServer.jar" />
+      <option name="WORKING_DIRECTORY" value="D:\Workspace\ChatRoomFX\PublicChatServer\out\artifacts\PublicChatServer_jar" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PublicChatFX" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.ServerMain" />
+      <item itemvalue="JAR Application.PublicChatServer.jar" />
+      <item itemvalue="JAR Application.PublicChatClient.jar" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JAR Application.PublicChatServer.jar" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ServerMain" />
-        <item index="2" class="java.lang.String" itemvalue="JAR Application.PublicChatClient.jar" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.PublicChatClient.jar" />
+        <item itemvalue="Application.ServerMain" />
+        <item itemvalue="JAR Application.PublicChatServer.jar" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="439042e7-9801-4787-932f-3004f49e2673" name="Default" comment="" />
@@ -881,6 +800,7 @@
       <workItem from="1511955201132" duration="907000" />
       <workItem from="1512189074566" duration="1198000" />
       <workItem from="1512274785983" duration="1046000" />
+      <workItem from="1733924426868" duration="8218000" />
     </task>
     <servers />
   </component>
@@ -924,16 +844,22 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/PublicChatServer/src/lk/ijse/gdse41/publicChatServer/dao/dbConnection/DBConnection.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+      </breakpoints>
     </breakpoint-manager>
-    <watches-manager />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

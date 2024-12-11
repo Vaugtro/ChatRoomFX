@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="PublicChatCommon" exported="" />
     <orderEntry type="library" exported="" name="com.jfoenix:jfoenix:1.9.1" level="project" />
+    <orderEntry type="library" name="javafx-swt" level="project" />
   </component>
 </module>
